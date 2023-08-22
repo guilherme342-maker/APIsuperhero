@@ -1,0 +1,17 @@
+.img{
+margin-left: 100%;
+}
+
+.menu{
+    text-align: center;
+}
+.imagem{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    //width: 50%;
+}
+
+#imagem {
+    width: 10vw;
+}
